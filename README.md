@@ -8,8 +8,20 @@
 -->
 
 # Introduction to GitHub
+name: "Ashique Ali"
+locatedIn: "India, Kerala"
 
-_Get started using GitHub in less than an hour._
+education: [
+  "Self-Taught Developer",
+  "Master's in Machine Learning Engineering",
+
+]
+
+fieldsOfInterest: [
+  "Web/Software Developement",
+  "Data Science",
+  "Machine Learning"
+]
 
 </header>
 
