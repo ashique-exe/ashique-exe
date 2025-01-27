@@ -6,25 +6,22 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+<header>
+  <img src="/images/header-image.png" alt="Course Header Image" width="1280" height="640">
 
-# Introduction to GitHub
-name: "Ashique Ali"
-locatedIn: "India, Kerala"
+  # Introduction to GitHub
 
-education: [
-  "Self-Taught Developer",
-  "Master's in Machine Learning Engineering",
+  <br>
 
-]
+  **Ashique Ali**  <br>
+  India, Kerala <br>
+  Self-Taught Developer | Pursuing Master's in Machine Learning Engineering
 
-fieldsOfInterest: [
-  "Web/Software Developement",
-  "Data Science",
-  "Machine Learning"
-]
+  <br>
+
+  **Fields of Interest:** Web/Software Development, Data Science, Machine Learning
 
 </header>
-
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
