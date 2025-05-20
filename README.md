@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=4A90E2&width=435&lines=Hi+👋+I'm+Ashique;ML+%26+AI+Enthusiast;Building+Intelligent+Systems&random=false&v=1" alt="Typing Animation">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=800&color=4A90E2&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Ashique;ML+%26+AI+Enthusiast;Building+Intelligent+Systems" alt="Typing Animation">
+  </a>
 </div>
-
 ---
 
 ### 🧠 About Me  
@@ -35,5 +36,5 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fashique-exe&countColor=%234A90E2)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
