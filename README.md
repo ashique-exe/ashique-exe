@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=800&color=4A90E2&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Ashique;ML+%26+AI+Enthusiast;Building+Intelligent+Systems" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=500&color=00FF9D&background=000000&center=true&width=435&lines=CONSOLE%3E%3E_+USER%3AAshique;ML%2FAI+PROTOCOLS+ACTIVE;%5B%2F%5D+Compiling+Future..." alt="Cyberpunk Header">
   </a>
 </div>
 ---
